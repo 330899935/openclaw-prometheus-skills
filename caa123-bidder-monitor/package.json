@@ -1,0 +1,12 @@
+{
+  "name": "caa123-bidder-monitor",
+  "version": "1.0.0",
+  "description": "中拍平台竞买人监控，关键词提醒，及时发现意向买家",
+  "main": "index.js",
+  "keywords": ["openclaw", "skill", "auction", "caa123", "monitor"],
+  "author": "Prometheus",
+  "license": "MIT",
+  "peerDependencies": {
+    "openclaw": ">=1.0.0"
+  }
+}

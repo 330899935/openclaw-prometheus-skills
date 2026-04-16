@@ -1,0 +1,12 @@
+{
+  "name": "gateway-watchdog",
+  "version": "1.0.0",
+  "description": "OpenClaw网关看门狗，监控网关进程，宕机自动重启",
+  "main": "index.js",
+  "keywords": ["openclaw", "skill", "gateway", "watchdog", "monitor"],
+  "author": "Prometheus",
+  "license": "MIT",
+  "peerDependencies": {
+    "openclaw": ">=1.0.0"
+  }
+}

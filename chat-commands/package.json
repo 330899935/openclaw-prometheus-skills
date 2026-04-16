@@ -1,0 +1,9 @@
+{
+  "name": "chat-commands",
+  "version": "1.0.0",
+  "description": "Useful shortcut commands for AI chat conversation management, save tokens and improve efficiency",
+  "main": "index.js",
+  "keywords": ["chat", "commands", "shortcuts", "token", "management"],
+  "author": "prometheus",
+  "license": "MIT"
+}

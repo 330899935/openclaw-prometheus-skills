@@ -1,0 +1,12 @@
+{
+  "name": "plugin-compatibility-checker",
+  "version": "1.0.0",
+  "description": "OpenClaw升级前插件兼容性检查，提前知道哪些插件会崩，避免升级后全线挂掉",
+  "main": "index.js",
+  "keywords": ["openclaw", "skill", "plugin", "compatibility", "checker"],
+  "author": "Prometheus",
+  "license": "MIT",
+  "peerDependencies": {
+    "openclaw": ">=1.0.0"
+  }
+}
