@@ -1,0 +1,9 @@
+{
+  "name": "volcengine-quotas-monitor",
+  "version": "1.0.0",
+  "description": "火山方舟 Coding Plan 调用额度监控，支持Lite/Pro套餐，80%/95%两级告警",
+  "main": "index.js",
+  "author": "prometheus",
+  "license": "MIT",
+  "keywords": ["volcengine", "monitor", "quota", "openclaw", "skill"]
+}
