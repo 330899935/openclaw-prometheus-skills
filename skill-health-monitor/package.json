@@ -1,0 +1,12 @@
+{
+  "name": "skill-health-monitor",
+  "version": "1.0.0",
+  "description": "OpenClaw 技能健康监控器，监控定时技能运行状态，故障自动告警",
+  "main": "index.js",
+  "keywords": ["openclaw", "skill", "health", "monitor", "alert"],
+  "author": "Prometheus",
+  "license": "MIT",
+  "peerDependencies": {
+    "openclaw": ">=1.0.0"
+  }
+}
